@@ -16,7 +16,6 @@ About Me:
 [<img align="left" alt="stefanninkovic | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" />](https://twitter.com/DaniloJakob)
 
 <br>
----
 
 <img align="left" alt="Danilo Jakob's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DaniloMurer&show_icons=true&hide_border=true&count_private=true&hide=stars&title_color=#000000&include_all_commits=true" />
 <img align="left" alt="Danilo Jakob's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloMurer&hide_border=true" />
