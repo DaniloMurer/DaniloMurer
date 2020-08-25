@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Danilo Jakob. I'm a Application Engineer Apprentice at the Würth ITensis in Chur, Switzerland.
 
 
-Here are some ideas to get you started:
+About Me:
 
 - 💻 My current main project is [TimeWorker](github.com/DaniloMurer/TimeWorker)
 - 🌱 I’m currently learning: C++, C#, Angular, Vue.js, Kotlin
