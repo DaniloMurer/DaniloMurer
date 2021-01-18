@@ -7,7 +7,7 @@ About Me:
 - 🌱 I’m currently learning: C++, C#, Angular, Vue.js, Kotlin
 - 👯 I'm open to work on any project as long as I feel like it's really interesting and complicated
 - 💬 You can ask me about: Java, JavaScript (node.js), ABAP (SAP), SQL (Oracle, MariaDB, MySQL) and Python
-- 📫 You can reach me via E-Mail: [Mail](mailto:danilo.murer@gmail.com) or Discord (Churrer#6048)
+- 📫 You can reach me via E-Mail: [Mail](mailto:danilo.jakob@gmx.ch) or Discord (Churrer#6048)
 - ⚡ Programming isn't just a hobby, it's a lifestyle
 ---
 
