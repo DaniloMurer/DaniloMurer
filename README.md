@@ -3,9 +3,9 @@
 
 About Me:
 
-- 💻 My current main project is [WarehouseManagement](https://github.com/DaniloMurer/WarehouseManagement)
-- 🌱 I’m currently learning: C++, C#, Angular, Vue.js, Kotlin
-- 👯 I'm open to work on any project as long as I feel like it's really interesting and complicated
+- 💻 My current main project is [blockchain](https://github.com/CodeAmaterasu/blockchain), and educational Repository about everything the blockchain has to offer
+- 🌱 I’m currently learning: C++
+- 👯 I'm open to work on any project
 - 💬 You can ask me about: Java, JavaScript (node.js), ABAP (SAP), SQL (Oracle, MariaDB, MySQL) and Python
 - 📫 You can reach me via E-Mail: [Mail](mailto:danilo.jakob@gmx.ch) or Discord (Churrer#6048)
 - ⚡ Programming isn't just a hobby, it's a lifestyle
