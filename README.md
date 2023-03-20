@@ -6,7 +6,7 @@ About Me:
 - 🌱 I’m currently learning DevOps focusing on Kubernetes in a Cloud Platform
 - 👯 I'm open to work on any project
 - 💬 You can ask me about: Java, JavaScript (node.js), ABAP (SAP), SQL (Oracle, MariaDB, MySQL) and Python
-- 📫 You can reach me via E-Mail: [Mail](mailto:danilo.jakob@gmx.ch) or Discord (Churrer#6048)
+- 📫 You can reach me via E-Mail: [Mail](mailto:danilo.jakob@gmx.ch)
 - ⚡ Programming isn't just a hobby, it's a lifestyle
 ---
 
