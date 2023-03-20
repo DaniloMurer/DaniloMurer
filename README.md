@@ -3,8 +3,7 @@
 
 About Me:
 
-- 💻 My current main project is [blockchain](https://github.com/CodeAmaterasu/blockchain), an educational Repository about everything the blockchain has to offer
-- 🌱 I’m currently learning: C++
+- 🌱 I’m currently learning DevOps focusing on Kubernetes in a Cloud Platform
 - 👯 I'm open to work on any project
 - 💬 You can ask me about: Java, JavaScript (node.js), ABAP (SAP), SQL (Oracle, MariaDB, MySQL) and Python
 - 📫 You can reach me via E-Mail: [Mail](mailto:danilo.jakob@gmx.ch) or Discord (Churrer#6048)
