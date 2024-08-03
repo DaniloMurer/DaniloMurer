@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Danilo Jakob. I'm a Junior Software Developer at the Würth ITensis in Chur, Switzerland.
+### Hi there 👋, I'm Danilo aka Churrer. I'm a Junior Software Developer from Switzerland
 
 
 About Me:
