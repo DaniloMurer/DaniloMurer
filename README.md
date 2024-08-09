@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Danilo aka Churrer and I'm a Junior Software Engineer from Switzerland</h2>
+<h2 align="left">Hi 👋! My name is Danilo aka Churrer, and I'm a Junior Software Engineer from Switzerland</h2>
 
 ###
 
@@ -68,7 +68,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/DaniloMurer/DaniloMurer/output/snake.svg" alt="Snake animation" />
 
 ###
